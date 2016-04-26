@@ -1,0 +1,27 @@
+{
+  "name": "googlefontprocess",
+  "version": "0.0.1",
+  "description": "Convert a Google Fonts list on format JSON to a Google Fonts official valid format.",
+  "main": "google-font-process.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramnza/Google-Fonts-JSON-to-Google-Font-Format.git"
+  },
+  "keywords": [
+    "google",
+    "fonts",
+    "json",
+    "format"
+  ],
+  "author": "Alex Casillas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ramnza/Google-Fonts-JSON-to-Google-Font-Format/issues"
+  },
+  "homepage": "https://github.com/Ramnza/Google-Fonts-JSON-to-Google-Font-Format#readme"
+}
